@@ -1,0 +1,231 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Strawberry",
+      "category": "fruit",
+      "price": 0.9,
+      "qty": 1,
+      "image_url": "assets/img/fruit/strawberry.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Appel",
+      "category": "fruit",
+      "price": 0.3,
+      "qty": 1,
+      "image_url": "assets/img/fruit/appel.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "category": "fruit",
+      "price": 0.5,
+      "qty": 1,
+      "image_url": "assets/img/fruit/banana.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cherry",
+      "category": "fruit",
+      "price": 0.15,
+      "qty": 1,
+      "image_url": "assets/img/fruit/cherry.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pear",
+      "category": "fruit",
+      "price": 0.4,
+      "qty": 1,
+      "image_url": "assets/img/fruit/pear.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Orange",
+      "category": "fruit",
+      "price": 0.3,
+      "qty": 1,
+      "image_url": "assets/img/fruit/orange.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Chicken",
+      "category": "meat",
+      "price": 2,
+      "qty": 1,
+      "image_url": "assets/img/meat/chicken.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mutton",
+      "category": "meat",
+      "price": 3,
+      "qty": 1,
+      "image_url": "assets/img/meat/sheep.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Beef",
+      "category": "meat",
+      "price": 4,
+      "qty": 1,
+      "image_url": "assets/img/meat/cow.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pork",
+      "category": "meat",
+      "price": 2.3,
+      "qty": 1,
+      "image_url": "assets/img/meat/pork.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Shrimp",
+      "category": "fish",
+      "price": 3.1,
+      "qty": 1,
+      "image_url": "assets/img/fish/shrimp.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Crab",
+      "category": "fish",
+      "price": 2.5,
+      "qty": 1,
+      "image_url": "assets/img/fish/crab.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Fish",
+      "category": "fish",
+      "price": 1.4,
+      "qty": 1,
+      "image_url": "assets/img/fish/fish.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 8,
+        "name": "Mutton",
+        "category": "meat",
+        "price": 3,
+        "qty": 1,
+        "image_url": "assets/img/meat/sheep.jpg"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Strawberry",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/strawberry.jpg"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Strawberry",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/strawberry.jpg"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Strawberry",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/strawberry.jpg"
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 11
+    }
+  ]
+}

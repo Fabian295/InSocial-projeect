@@ -1,0 +1,11 @@
+<div class="input__search">
+  <form class="form">
+
+    <input class="input" id="searcher" type="search" 
+    [(ngModel)]="searchTerm" (keyup)="search($event)" [ngModelOptions]="{standalone: true}" 
+    autocomplete=off placeholder=" ">
+    <label class="input__label" for="searcher">Search</label>
+
+    <button type="submit" value="Submit">Search</button>
+  </form>
+</div>

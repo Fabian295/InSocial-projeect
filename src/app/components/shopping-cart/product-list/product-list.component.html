@@ -1,0 +1,7 @@
+
+<div class="container">
+  <div class="card" *ngFor="let product of productList || filterCategory | filter:searchKey:'name'">
+    <app-product-item [productItem]="product"></app-product-item>
+  </div>
+  <!-- <div class="output"></div> -->
+</div>

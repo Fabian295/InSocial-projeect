@@ -1,0 +1,18 @@
+<div *ngIf="cartItems.length === 0" class="alert">
+  <p class="empty__eng">Your Cart is Empty!</p>
+  <!-- <p class="empty__nl">Uw Winkel Wagen is Leeg!</p>  -->
+</div>
+
+<ul *ngIf="cartItems.length > 0" class="list-group">
+  <li class="list-group-item" *ngFor="let item of cartItems">
+    <app-cart-item [cartItem]="item"></app-cart-item>
+  </li>
+
+  <li class="list-group-item active">
+    <strong class="total">
+     <span class="total-text">Total</span>  
+    {{ cartTotal | currency: '€ ' }}
+  </strong>
+  </li>
+  <button (click)="clear()" >Clear Cart</button>
+</ul>

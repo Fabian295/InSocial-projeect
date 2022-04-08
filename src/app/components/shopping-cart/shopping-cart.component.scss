@@ -1,0 +1,38 @@
+$bg: #353535;
+$clr: #fff;
+$link-clr: #7b68ee;
+$hover-clr: #00ffff;
+
+*, *::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 90vw;
+  margin: 0 auto;
+}
+
+.filters {
+  width: 20vw;
+  min-height: 50vh;
+  // border: 1px solid #fff;
+}
+
+.product-list {
+  width: 50vw;
+  min-height: 70vh;
+  // border: 1px solid #fff;
+}
+
+.cart {
+  // border: 1px solid #fff;
+  width: 20vw;
+  min-height: 50vh;
+}

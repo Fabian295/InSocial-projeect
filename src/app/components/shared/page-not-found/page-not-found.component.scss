@@ -1,0 +1,31 @@
+$bg: #353535;
+$clr: #fff;
+$link-clr: #7b68ee;
+$hover-clr: #00ffff;
+
+
+.text-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: $clr;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  margin: 0 2rem;
+}
+
+a {
+  color: $link-clr;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $hover-clr;
+}
+

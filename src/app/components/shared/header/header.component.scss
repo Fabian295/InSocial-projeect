@@ -1,0 +1,61 @@
+$bg: #353535;
+$clr: #fff;
+$link-clr: #7b68ee;
+$hover-clr: #00ffff;
+
+header {
+  width: 90vw;
+  height: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000;
+  // padding-top: 1rem;
+}
+
+.logo {
+  width: 3rem;
+
+}
+
+.logo-image {
+  width: 100%;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.cart-total {
+  position: relative;
+  margin-right: 2rem;
+}
+
+.cart {
+  position: absolute;
+  top: -2rem;
+  right: 0rem;
+}
+
+.ttl {
+  display: inline-block;
+  padding: 0.25rem 0.5rem ;
+  // margin-right: 2rem;
+  // margin-bottom: 1rem;
+  position: absolute;
+  top: -0.4rem;
+  right: 0rem;
+  font-size: 1.2rem;
+  width: 2rem;
+  height: 2rem;
+  text-align: center;
+  background-color: yellow;
+  border-radius: 50%;
+  color: #000;
+}
+
+
+

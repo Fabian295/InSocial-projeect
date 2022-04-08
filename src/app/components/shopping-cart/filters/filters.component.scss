@@ -1,0 +1,117 @@
+
+$bg: #353535;
+$clr: #fff;
+$link-clr: #7b68ee;
+$hover-clr: #00ffff;
+
+
+h3 {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.filter-container {
+  // width: 100%;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items:  center;
+  flex: 1 1 ;
+  padding:  1rem;
+}
+
+.filter-form {
+  width: 90%;
+  // height: 100%;
+  // columns: 2;
+
+  .form-group {
+    width: 100%;
+    // background-color: blue;
+    clear: both;
+    margin: 0.5rem 0;
+
+    label {
+      width: 40%;
+      float: left;
+      margin: 0.5rem 0;
+    }
+
+    input {
+      width: 50%;
+      color: $clr;
+      padding: 0.3rem 1rem 0.4rem;
+      outline: none;
+      background: none;
+      border: 1px solid $link-clr;
+      border-radius: 0.8rem;
+      float: right;
+    }
+
+    .btn {
+      padding: 0.2rem 1rem;
+      width: 100%;
+      margin: 0.5rem auto;
+      border: 2px solid $link-clr;
+      border-radius: 1rem;
+      color: lighten( $link-clr, 10%);
+      background-color: darken($link-clr, 30%);
+      transition: background-color 0.4s  ease,
+      color 0.4s ease, border 0.5s ease;
+      
+      &:hover {
+        color: $hover-clr;
+        border: 2px solid $hover-clr;
+        cursor: pointer;
+      }
+    }
+
+  }
+
+}
+
+.btn {
+  padding: 0.2rem 1rem;
+  width: 100%;
+  margin: 0.5rem auto;
+  border: 2px solid $link-clr;
+  border-radius: 1rem;
+  color: lighten( $link-clr, 10%);
+  background-color: darken($link-clr, 30%);
+  transition: background-color 0.4s  ease,
+  color 0.4s ease, border 0.5s ease;
+  
+  &:hover {
+    color: $hover-clr;
+    border: 2px solid $hover-clr;
+    cursor: pointer;
+  }
+}
+
+.filter__btn {
+  width: 96%;
+  
+}
+
+.all-prods {
+  width: 96%;
+
+}
+
+.btn .cat__all {
+  padding: 0.2rem 5rem;
+  width: 100%;
+  margin: 0.5rem auto;
+}
+
+
+
+.btn.cat__fruit {
+  // font-size: 1rem;
+  padding: 0.2rem 5rem;
+  width: 100%;
+  margin:  0.5rem auto;
+ text-align: center;
+}
+

@@ -1,0 +1,64 @@
+$bg: #353535;
+$clr: #fff;
+$link-clr: #7b68ee;
+$hover-clr: #00ffff;
+
+
+.form {
+  width: 45vw;
+  position: relative;
+  color: $clr;
+}
+
+.input__label {
+  position: absolute;
+  left: 1.5rem;
+  top: 0.5rem;
+  font-size: 1.2rem;
+  cursor: text;
+  transition: font-size 0.4s ease,
+  border-color 0.4s ease, top 0.4s ease;
+}
+
+.input {
+  font-family: 'Convergence', sans-serif;
+  background: none;
+  width: 100%;
+  outline: none;
+  padding: 0.5rem 1rem;
+  border: 2px solid $link-clr;
+  border-radius:2rem;
+  color: $clr;
+  font-size: 1.2rem;
+  transition: font-size 0.4s ease,
+  border-color 0.4s ease, top 0.4s ease;
+
+  &:hover {
+    border-color: $hover-clr;
+  }
+
+  &:focus {
+    border-color: rgb(216, 168, 216);
+
+    
+  }
+  &:focus ~ .input__label ,
+  &:not(:placeholder-shown).input:not(:focus)
+  ~.input__label {
+    left: 0.8rem;
+    top: -0.7rem;
+    font-size: 0.7rem;
+    background: #000;
+    padding: 0.2rem 0.5rem;
+  } 
+}
+
+ button {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 0.75rem 0.5rem;
+  overflow: hidden;
+  border-radius: 0 2rem 2rem 0;
+  border: 2px solid $link-clr;
+}

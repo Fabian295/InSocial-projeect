@@ -1,0 +1,63 @@
+
+
+.card-item {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  // transition: all  0.4s ease;
+  // cursor: pointer;
+  // line-height: 1.6;
+  
+  .ci-qty {
+    //   padding: 0.3rem 0.6rem;
+    //   background-color: yellow;
+    //   color: #000;
+    //   border-radius: 50%;
+    //   width: 0.5rem;
+    //   height: 0.4rem;
+      font-size: 1.1rem;
+      margin-right: 0.25rem;
+      
+    
+    }
+    .btn-group {
+      // display: none;
+      opacity: 0;
+      transition: all  0.4s ease;
+      // cursor: pointer;
+      // display: inline-block;
+
+      .btn {
+        display: inline-block;
+        width: 2rem;
+        height: 2rem;
+        text-align: center;
+        // padding: -0.2rem 0 0.6rem 0;
+        // padding-bottom: 0.4rem;
+        color: #fff;
+        font-size: 1.4rem;
+        // transition: opacity  0.4s ease;
+        cursor: pointer;
+        
+        &.btn__plus {
+          background-color: rgb(47, 98, 250);
+          // transition: all  0.4s ease;
+          // cursor: pointer;
+        }
+
+        &.btn__minus {
+          background-color: rgb(254, 19, 19);
+          transition: all  0.4s ease;
+          // cursor: pointer;
+        }
+       }
+    }
+}
+
+.card-item:hover .btn-group {
+  display: inline-block;
+  opacity: 1;
+}

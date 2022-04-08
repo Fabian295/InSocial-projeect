@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Aardbei",
+      "category": "fruit",
+      "price": 0.9,
+      "qty": 1,
+      "image_url": "assets/img/fruit/aardbei.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Appel",
+      "category": "fruit",
+      "price": 0.3,
+      "qty": 1,
+      "image_url": "assets/img/fruit/appel.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banaan",
+      "category": "fruit",
+      "price": 0.5,
+      "qty": 1,
+      "image_url": "assets/img/fruit/banaan.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kers",
+      "category": "fruit",
+      "price": 0.15,
+      "qty": 1,
+      "image_url": "assets/img/fruit/kers.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Peer",
+      "category": "fruit",
+      "price": 0.4,
+      "qty": 1,
+      "image_url": "assets/img/fruit/peer.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sinaasappel",
+      "category": "fruit",
+      "price": 0.3,
+      "qty": 1,
+      "image_url": "assets/img/fruit/sinaasappel.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kip",
+      "category": "vlees",
+      "price": 2,
+      "qty": 1,
+      "image_url": "assets/img/vlees/kip.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lam",
+      "category": "vlees",
+      "price": 3,
+      "qty": 1,
+      "image_url": "assets/img/vlees/schaap.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rund",
+      "category": "vlees",
+      "price": 4,
+      "qty": 1,
+      "image_url": "assets/img/vlees/koe.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Varkensvlees",
+      "category": "vlees",
+      "price": 2.3,
+      "qty": 1,
+      "image_url": "assets/img/vlees/varken.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Garnaal",
+      "category": "vis",
+      "price": 3.1,
+      "qty": 1,
+      "image_url": "assets/img/vis/garnaal.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Krab",
+      "category": "vis",
+      "price": 2.5,
+      "qty": 1,
+      "image_url": "assets/img/vis/krab.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Vis",
+      "category": "vis",
+      "price": 1.4,
+      "qty": 1,
+      "image_url": "assets/img/vis/vis.jpg"
+    }
+  ],
+  "cart": []
+}

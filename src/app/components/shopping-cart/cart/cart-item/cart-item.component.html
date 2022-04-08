@@ -1,0 +1,15 @@
+<div class="card-item">
+
+    <span class="ci-qty">{{ cartItem.qty }}</span> x
+
+    <span>{{ cartItem.productName }} </span> 
+    <span class="btn-group">
+        <button (click)="plus()" class="btn btn__plus"> + </button>
+        <button (click)="minus()" class="btn btn__minus"> - </button>
+    </span>
+    <!-- <span>{{ (cartItem.qty * cartItem.price) | currency: '€ ' }}</span> -->
+    
+    <strong>
+       
+        {{ (cartItem.qty * cartItem.price) | currency: '€ ' }}</strong>
+</div>

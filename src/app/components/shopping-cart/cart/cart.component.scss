@@ -1,0 +1,36 @@
+.alert {
+  background-color: rgb(217, 200, 5);
+  padding: 0.5rem;
+  // text-align: center;
+  width: 90%;
+  margin: 0.7rem auto;
+}
+
+.list-group {
+  width: 90%;
+  margin: 1rem auto;
+  list-style: none;
+  padding: 1rem;
+
+  .list-group-item {
+    padding: 0.6rem 0.2rem;
+    border-top: 1px solid #eee;
+
+    .total {
+      font-weight: 900;
+      background-color: mediumslateblue;
+      font-size: 1.2rem;
+      display: block;
+      text-align: right;
+      padding: 0.5rem 0.7rem;
+
+
+    }
+
+  }
+}
+
+.total-text {
+  text-align-last: left;
+  margin-right: 1rem;
+}

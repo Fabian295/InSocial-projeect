@@ -1,0 +1,38 @@
+$bg: #353535;
+$clr: #fff;
+$link-clr: #7b68ee;
+$hover-clr: #00ffff;
+
+.card__name {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.card__category {
+  font-style: italic;
+  color: #ccc;
+}
+
+.btn {
+  padding: 0.2rem 1rem;
+  width: 100%;
+  margin: 0.5rem auto;
+  border: 2px solid $link-clr;
+  border-radius: 1rem;
+  color: lighten( $link-clr, 10%);
+  background-color: darken($link-clr, 30%);
+  transition: background-color 0.4s  ease,
+  color 0.4s ease, border 0.5s ease;
+  
+  &:hover {
+    color: $hover-clr;
+    border: 2px solid $hover-clr;
+    cursor: pointer;
+  }
+}
+.card__price {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 1rem;
+}

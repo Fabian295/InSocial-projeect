@@ -1,0 +1,1026 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Aardbei",
+      "category": "fruit",
+      "price": 0.9,
+      "qty": 1,
+      "image_url": "assets/img/fruit/aardbei.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Appel",
+      "category": "fruit",
+      "price": 0.3,
+      "qty": 1,
+      "image_url": "assets/img/fruit/appel.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banaan",
+      "category": "fruit",
+      "price": 0.5,
+      "qty": 1,
+      "image_url": "assets/img/fruit/banaan.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kers",
+      "category": "fruit",
+      "price": 0.15,
+      "qty": 1,
+      "image_url": "assets/img/fruit/kers.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Peer",
+      "category": "fruit",
+      "price": 0.4,
+      "qty": 1,
+      "image_url": "assets/img/fruit/peer.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sinaasappel",
+      "category": "fruit",
+      "price": 0.3,
+      "qty": 1,
+      "image_url": "assets/img/fruit/sinaasappel.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kip",
+      "category": "vlees",
+      "price": 2,
+      "qty": 1,
+      "image_url": "assets/img/vlees/kip.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lam",
+      "category": "vlees",
+      "price": 3,
+      "qty": 1,
+      "image_url": "assets/img/vlees/schaap.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rund",
+      "category": "vlees",
+      "price": 4,
+      "qty": 1,
+      "image_url": "assets/img/vlees/koe.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Varkensvlees",
+      "category": "vlees",
+      "price": 2.3,
+      "qty": 1,
+      "image_url": "assets/img/vlees/varken.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Garnaal",
+      "category": "vis",
+      "price": 3.1,
+      "qty": 1,
+      "image_url": "assets/img/vis/garnaal.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Krab",
+      "category": "vis",
+      "price": 2.5,
+      "qty": 1,
+      "image_url": "assets/img/vis/krab.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Vis",
+      "category": "vis",
+      "price": 1.4,
+      "qty": 1,
+      "image_url": "assets/img/vis/vis.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Kers",
+        "category": "fruit",
+        "price": 0.15,
+        "qty": 1,
+        "image_url": "assets/img/fruit/kers.jpg"
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Kers",
+        "category": "fruit",
+        "price": 0.15,
+        "qty": 1,
+        "image_url": "assets/img/fruit/kers.jpg"
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 11,
+        "name": "Garnaal",
+        "category": "vis",
+        "price": 3.1,
+        "qty": 1,
+        "image_url": "assets/img/vis/garnaal.jpg"
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Peer",
+        "category": "fruit",
+        "price": 0.4,
+        "qty": 1,
+        "image_url": "assets/img/fruit/peer.jpg"
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 8,
+        "name": "Lam",
+        "category": "vlees",
+        "price": 3,
+        "qty": 1,
+        "image_url": "assets/img/vlees/schaap.jpg"
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 12,
+        "name": "Krab",
+        "category": "vis",
+        "price": 2.5,
+        "qty": 1,
+        "image_url": "assets/img/vis/krab.jpg"
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 11,
+        "name": "Garnaal",
+        "category": "vis",
+        "price": 3.1,
+        "qty": 1,
+        "image_url": "assets/img/vis/garnaal.jpg"
+      },
+      "id": 16
+    },
+    {
+      "product": {
+        "id": 7,
+        "name": "Kip",
+        "category": "vlees",
+        "price": 2,
+        "qty": 1,
+        "image_url": "assets/img/vlees/kip.jpg"
+      },
+      "id": 17
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Banaan",
+        "category": "fruit",
+        "price": 0.5,
+        "qty": 1,
+        "image_url": "assets/img/fruit/banaan.jpg"
+      },
+      "id": 18
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Banaan",
+        "category": "fruit",
+        "price": 0.5,
+        "qty": 1,
+        "image_url": "assets/img/fruit/banaan.jpg"
+      },
+      "id": 19
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 20
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Kers",
+        "category": "fruit",
+        "price": 0.15,
+        "qty": 1,
+        "image_url": "assets/img/fruit/kers.jpg"
+      },
+      "id": 21
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 22
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Banaan",
+        "category": "fruit",
+        "price": 0.5,
+        "qty": 1,
+        "image_url": "assets/img/fruit/banaan.jpg"
+      },
+      "id": 23
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Banaan",
+        "category": "fruit",
+        "price": 0.5,
+        "qty": 1,
+        "image_url": "assets/img/fruit/banaan.jpg"
+      },
+      "id": 24
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 25
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 26
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 27
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Kers",
+        "category": "fruit",
+        "price": 0.15,
+        "qty": 1,
+        "image_url": "assets/img/fruit/kers.jpg"
+      },
+      "id": 28
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Kers",
+        "category": "fruit",
+        "price": 0.15,
+        "qty": 1,
+        "image_url": "assets/img/fruit/kers.jpg"
+      },
+      "id": 29
+    },
+    {
+      "product": {
+        "id": 8,
+        "name": "Lam",
+        "category": "vlees",
+        "price": 3,
+        "qty": 1,
+        "image_url": "assets/img/vlees/schaap.jpg"
+      },
+      "id": 30
+    },
+    {
+      "product": {
+        "id": 8,
+        "name": "Lam",
+        "category": "vlees",
+        "price": 3,
+        "qty": 1,
+        "image_url": "assets/img/vlees/schaap.jpg"
+      },
+      "id": 31
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 32
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 33
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 34
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 35
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 36
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 37
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 38
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 39
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 40
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 41
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 42
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 43
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 44
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 45
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 46
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 47
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 48
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 49
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 50
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 51
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 52
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 53
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 54
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 55
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 56
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 57
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 58
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 59
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 60
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 61
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 62
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 63
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 64
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 65
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 66
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 67
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 68
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 69
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 70
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 71
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 72
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 73
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 74
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 75
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 76
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 77
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 78
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 79
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Kers",
+        "category": "fruit",
+        "price": 0.15,
+        "qty": 1,
+        "image_url": "assets/img/fruit/kers.jpg"
+      },
+      "id": 80
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Banaan",
+        "category": "fruit",
+        "price": 0.5,
+        "qty": 1,
+        "image_url": "assets/img/fruit/banaan.jpg"
+      },
+      "id": 81
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Appel",
+        "category": "fruit",
+        "price": 0.3,
+        "qty": 1,
+        "image_url": "assets/img/fruit/appel.jpg"
+      },
+      "id": 82
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Aardbei",
+        "category": "fruit",
+        "price": 0.9,
+        "qty": 1,
+        "image_url": "assets/img/fruit/aardbei.jpg"
+      },
+      "id": 83
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Banaan",
+        "category": "fruit",
+        "price": 0.5,
+        "qty": 1,
+        "image_url": "assets/img/fruit/banaan.jpg"
+      },
+      "id": 84
+    }
+  ]
+}
